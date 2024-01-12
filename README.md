@@ -1,18 +1,18 @@
 # comfyUI-workflows
 store my pixel or any interesting comfyui workflows
 
-## content list (adding more)
+## content and bilibili (adding more)
 
 - 8-frames-rmbg
-- 8-frames-stich-rmbg-pixel
-- animal
-- esitmate-mutliviews
-- freeu-lcm
-- ipadaptor-svd-pixel
-- lcm-draw
-- mutli-view-pixel
-- n-frames-head-perfect-pixel
-- stich-animations
+- 8-frames-stich-rmbg-pixel : https://www.bilibili.com/video/BV1n34y1F7Z9/
+- animal : https://www.bilibili.com/video/BV1xT4y1W7pv/
+- esitmate-mutliviews : https://www.bilibili.com/video/BV11g4y1S7Ak
+- freeu-lcm : https://www.bilibili.com/video/BV1tp4y1d7uB/
+- ipadaptor-svd-pixel : https://www.bilibili.com/video/BV18a4y1r7Ji/
+- lcm-draw : https://www.bilibili.com/video/BV1Yc41167bc/
+- mutli-view-pixel : https://www.bilibili.com/video/BV1mu4y1b7uk/
+- n-frames-head-perfect-pixel : https://www.bilibili.com/video/BV1LN4y1e7kn/
+- stich-animations : https://www.bilibili.com/video/BV19Q4y137fa/
 
 ## Featured Plugin & LORA & Checkpoints
 
