@@ -31,3 +31,7 @@ store my pixel or any interesting comfyui workflows
 - all-in-one-pixel-model: https://civitai.com/models/34/all-in-one-pixel-model
 - 2d-pixel-toolkit-2d: https://civitai.com/models/165876/2d-pixel-toolkit-2d
 - white-background: https://civitai.com/models/113542/white-background
+- LCM-sdxl: https://huggingface.co/latent-consistency/lcm-lora-sdxl
+- LCM-sd1.5: https://huggingface.co/latent-consistency/lcm-lora-sdv1-5
+
+
