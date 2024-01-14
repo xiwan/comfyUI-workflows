@@ -30,4 +30,4 @@ store my pixel or any interesting comfyui workflows
 ### LORAs & Checkpoints
 - all-in-one-pixel-model: https://civitai.com/models/34/all-in-one-pixel-model
 - 2d-pixel-toolkit-2d: https://civitai.com/models/165876/2d-pixel-toolkit-2d
-white-background: https://civitai.com/models/113542/white-background
+- white-background: https://civitai.com/models/113542/white-background
