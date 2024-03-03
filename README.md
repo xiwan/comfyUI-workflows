@@ -1,5 +1,19 @@
 # comfyUI-workflows
-store my pixel or any interesting comfyui workflows
+
+repo for some interesting comfyUI pixels workflow
+
+## How to use it
+
+Just drag the png file into ComfyUI Console :)
+
+### What about missing nodes?
+
+Open the Manager, there is a "Install missing Nodes" option
+
+### What about errors?
+
+Make sure u update everything including ComfyUI 
+
 
 ## content and bilibili (adding more)
 
@@ -13,6 +27,9 @@ store my pixel or any interesting comfyui workflows
 - mutli-view-pixel : https://www.bilibili.com/video/BV1mu4y1b7uk/
 - n-frames-head-perfect-pixel : https://www.bilibili.com/video/BV1LN4y1e7kn/
 - stich-animations : https://www.bilibili.com/video/BV19Q4y137fa/
+- scrollable-background : https://www.bilibili.com/video/BV1Wi4y1q7GK/
+- character-evolve : https://www.bilibili.com/video/BV1my421B78k/
+
 
 ## Featured Plugin & LORA & Checkpoints
 
