@@ -29,7 +29,7 @@ Make sure u update everything including ComfyUI
 - stich-animations : https://www.bilibili.com/video/BV19Q4y137fa/
 - scrollable-background : https://www.bilibili.com/video/BV1Wi4y1q7GK/
 - character-evolve : https://www.bilibili.com/video/BV1my421B78k/
-
+- weapon-evolve : https://www.bilibili.com/video/BV1Ju4m1T7Qc/
 
 ## Featured Plugin & LORA & Checkpoints
 
@@ -46,7 +46,8 @@ Make sure u update everything including ComfyUI
 
 ### LORAs & Checkpoints
 - all-in-one-pixel-model: https://civitai.com/models/34/all-in-one-pixel-model
-- 2d-pixel-toolkit-2d: https://civitai.com/models/165876/2d-pixel-toolkit-2d
+- 2d-pixel-toolkit-2d-character: https://civitai.com/models/165876?modelVersionId=186677
+- 2d-pixel-toolkit-2d-cold-weapon: https://civitai.com/models/165876?modelVersionId=230962
 - white-background: https://civitai.com/models/113542/white-background
 - LCM-sdxl: https://huggingface.co/latent-consistency/lcm-lora-sdxl
 - LCM-sd1.5: https://huggingface.co/latent-consistency/lcm-lora-sdv1-5
